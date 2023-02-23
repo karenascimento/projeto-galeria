@@ -1,0 +1,90 @@
+.jumbotron {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 13%, rgba(229,191,251,1) 69%, rgba(148,208,233,1) 100%);    margin: 0;
+}
+
+.jumbotron .jumbotron-heading {
+    font-weight: 300;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 13%, rgba(229,191,251,1) 69%, rgba(148,208,233,1) 100%);    margin: 0;
+}
+
+.btn-info {
+    background-color: black;
+    background: rgba(148,208,233,1);
+}
+
+//imagens
+.imgfoz{
+    height: 85%;
+}
+.img_morro{
+    height: 91%;
+    width: 100%;
+}
+.img_beto{
+    height: 91%;
+}
+
+.img_merg{
+    height: 148px;
+    width: 100%;
+}
+.img_pel{
+    height: 70%;
+    width: 100%;
+}
+.viagem_ilha{
+    height: 72%;
+    width: 100%;
+}
+.farol{
+    height: 90%;
+}
+
+// minhas viagens
+.header-photo{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 13%, rgba(229,191,251,1) 69%, rgba(148,208,233,1) 100%);    margin: 0;
+}
+
+.header-box{
+    background: rgb(0, 0, 0);}
+.pl-2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+.pl-3{
+    font-family: 'Amatic SC', cursive;
+    font-size: 65px;
+}
+
+.pl-4{
+    font-size: 30px;
+}
+.nav-bar{
+    background-color: aqua;
+}
+
+.pb-5{
+    color: rgb(0, 0, 0);
+}
+
+.video{
+    width: 100%;
+}
+
+// legenda
+.figcaption{
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
